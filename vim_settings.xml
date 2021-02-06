@@ -13,12 +13,23 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/Udemy_Python_podstawy/3_26.py" timestamp="1612613872268">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+      </file>
       <file name="/Dummy.txt" timestamp="1612609689916">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/3_26" timestamp="1612613823699">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1600380159896">
@@ -48,13 +59,13 @@
 # coding=utf-8</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>?</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CiMtMS4gWmE/YWR1aiBiaWJsaW90ZWs/IHBhbmRhcw==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>?</text>
       </register>
     </registers>
   </component>
