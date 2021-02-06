@@ -18,7 +18,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1610413705571">
+      <file name="/Dummy.txt" timestamp="1612609689916">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1600380159896">
@@ -27,11 +27,17 @@
       <file name="/R plugin - Welcome.md" timestamp="1612608472693">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Udemy_Python_podstawy/03_eyeBlinking.py" timestamp="1612609675974">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/pendrive_Python_R/Python/Zadania domowe/Python_UAM/homework03/Zad_02.py" timestamp="1600431065826">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Udemy_Python_podstawy/snake.py" timestamp="1612610891627" />
     </filemarks>
     <jumps />
   </component>
@@ -41,12 +47,14 @@
         <text>#!/usr/bin/python
 # coding=utf-8</text>
       </register>
-      <register name="&quot;" type="2">
-        <text>#!/usr/bin/python
-# coding=utf-8</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">CiMtMS4gWmE/YWR1aiBiaWJsaW90ZWs/IHBhbmRhcw==</text>
+      </register>
+      <register name="-" type="4">
+        <text />
       </register>
     </registers>
   </component>
