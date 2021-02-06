@@ -2,6 +2,11 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -21,51 +26,61 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/Udemy_Python_podstawy/3_26.py" timestamp="1612613872268">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
+      <file name="$USER_HOME$/PycharmProjects/Udemy_Python_podstawy/3_26.py" timestamp="1612615842915">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+        <mark key="^" line="2" column="11" />
       </file>
       <file name="/Dummy.txt" timestamp="1612609689916">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/3_26" timestamp="1612613823699">
+      <file name="/3_26" timestamp="1612615723660">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1600380159896">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1612615699744">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/R plugin - Welcome.md" timestamp="1612608472693">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Udemy_Python_podstawy/03_eyeBlinking.py" timestamp="1612609675974">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/Udemy_Python_podstawy/03_eyeBlinking.py" timestamp="1612614581116">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+      </file>
+      <file name="/Udemy_Python_podstawy" timestamp="1612614351367">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/pendrive_Python_R/Python/Zadania domowe/Python_UAM/homework03/Zad_02.py" timestamp="1600431065826">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Udemy_Python_podstawy/snake.py" timestamp="1612610891627" />
     </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
+        <text encoding="base64">aGVscCgpCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>e</text>
+      </register>
+      <register name="2" type="2">
         <text>#!/usr/bin/python
 # coding=utf-8</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>?</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CiMtMS4gWmE/YWR1aiBiaWJsaW90ZWs/IHBhbmRhcw==</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>e</text>
       </register>
     </registers>
   </component>
