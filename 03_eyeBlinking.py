@@ -22,5 +22,5 @@ years = 50 #liczba lat
 #liczba mrugniec w ciagu X lat
 x = blinksPerMin * minInHour * hoursInDay *daysInYear * years
 
-print('ilosc mrugniec w ciagu', years, 'lat, wynosi ', x)
+print('ilosc mrugniec w ciagu', years, 'lat, wynosi ',x)
 
