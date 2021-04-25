@@ -24,3 +24,4 @@ x = blinksPerMin * minInHour * hoursInDay *daysInYear * years
 
 print('ilosc mrugniec w ciagu', years, 'lat, wynosi ',x)
 
+#test
