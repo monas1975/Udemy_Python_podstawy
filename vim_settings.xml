@@ -26,40 +26,58 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/Udemy_Python_podstawy/3_26.py" timestamp="1612615842915">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="1" />
-        <mark key="." line="2" column="1" />
-        <mark key="^" line="2" column="11" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1612609689916">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/3_26" timestamp="1612615723660">
+      <file name="/Dummy.txt" timestamp="1619475868283">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1600380159896">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1619473144887">
+      <file name="/Python Console" timestamp="1619474637909">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/R plugin - Welcome.md" timestamp="1612608472693">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Udemy_Python_podstawy/03_eyeBlinking.py" timestamp="1612614581116">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="0" />
-      </file>
-      <file name="/Udemy_Python_podstawy" timestamp="1612614351367">
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/pendrive_Python_R/Python/Zadania domowe/Python_UAM/homework03/Zad_02.py" timestamp="1600431065826">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="/4.37_string_2" timestamp="1619475013956">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Udemy_Python_podstawy/3_26.py" timestamp="1612615842915">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+        <mark key="^" line="2" column="11" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Udemy_Python_podstawy/Udemy_podstawy/4.34_Stringi_1.py" timestamp="1619474081072" />
+      <file name="/3_26" timestamp="1612615723660">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Udemy_Python_podstawy/Udemy_podstawy/4.35_String_1_LAB.py" timestamp="1619474106146" />
+      <file name="$USER_HOME$/PycharmProjects/Udemy_Python_podstawy/Udemy_podstawy/4.37_string_2.py" timestamp="1619475583786">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Udemy_Python_podstawy/Udemy_podstawy/4.38_Strings_2_LAB.py" timestamp="1619475566646">
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="/Udemy_Python_podstawy" timestamp="1619474696464">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/4.37_string_2_Lab" timestamp="1619475885887">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
@@ -67,20 +85,23 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aGVscCgpCg==</text>
+        <text>https://github.com/monas1975/Udemy_Python_podstawy.git</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>2</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">aGVscCgpCg==</text>
+      </register>
+      <register name="3" type="2">
         <text>#!/usr/bin/python
 # coding=utf-8</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CiMtMS4gWmE/YWR1aiBiaWJsaW90ZWs/IHBhbmRhcw==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>2</text>
       </register>
     </registers>
   </component>
