@@ -42,4 +42,4 @@ if __name__ == '__main__':
     for i in range(5):
         dices.append(random.randint(min,max))
 
-    print(dices)
+    print(dices )
