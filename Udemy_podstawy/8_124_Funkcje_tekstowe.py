@@ -1,4 +1,4 @@
-
+import string
 if __name__ == '__main__':
 
     line = 'this IS a very STRANGE text'
@@ -41,3 +41,21 @@ if __name__ == '__main__':
 
     print(a)
     print(b)
+
+    line3 ="""
+    sdkokfjkfdjkdfjkj
+    lsdkjkjkjkdjkjkd
+    kvjckxjvkvjdkjdjk
+    """
+    print(line3)
+
+    print(string.ascii_letters)
+
+    print(string.digits)
+    print('--------------------------------')
+    line10 = 'this is the end of lesson'
+    print(line10)
+
+    line11 = line10.split(' ')
+    print(line11)
+
